@@ -1,17 +1,17 @@
 # Oppimispäiväkirja: Git projektissa
 
-__Mitä hyötyä voisi olla versionhallinnasta, jos kehität projektia yksin?__
+## Mitä hyötyä voisi olla versionhallinnasta, jos kehität projektia yksin?
 
-Kirjoita tähän vastauksesi
+Versionhallinnan avulla voin seurata projektin muutoksia, palata vanhempiin versioihin ja testailla uusia ominaisuuksia turvallisesti omissa haaroissa.
 
-__Mitä hyötyä voisi olla versionhallinnasta, jos projektissa on useita kehittäjiä?__
+## Mitä hyötyä voisi olla versionhallinnasta, jos projektissa on useita kehittäjiä?
 
-Kirjoita tähän vastauksesi
+Useampi tyyppi voi työskennellä samassa projektissa ilman, että kaikkien tarvitsee muokata samoja tiedostoja yhtä aikaa. Muutokset voidaan tehdä omiin haaroihin ja yhdistää myöhemmin.
 
-__Miten järjestäisit projektitiimin versionhallinnan 3-4 hengen ohjelmistoprojektikurssilla? Laadi tiimiläisille lyhyt ohje, miten projektissa toimitaan.__
+## Miten järjestäisit projektitiimin versionhallinnan 3-4 hengen ohjelmistoprojektikurssilla?
 
-Kirjoita tähän vastauksesi
+Käyttäisin yhteistä GitHub-repositoriota. master-haaraan yhdistettäisiin vain valmiit ja testatut muutokset. Jokainen tekisi oman ominaisuutensa erillisessä haarassa ja tekisi siitä Pull Requestin ennen yhdistämistä.
 
-__Kommenttini opintojaksosta, esim. sisällöstä, materiaalista, työmäärästä, hyödyllisyydestä, työmäärästä. Mitä toivoisit olevan enemmän, mitä vähemmän?__
+## Kommenttini opintojaksosta
 
-Kirjoita tähän vastauksesi
+Kurssi oli hyödyllinen ja käytännönläheinen. Tehtävien tekeminen itse auttoi ymmärtämään Gitin toimintaa paljon paremmin kuin pelkkä teorian lukeminen. Erityisesti haarojen, etärepositorion ja merge-konfliktien harjoittelu oli hyödyllistä.
