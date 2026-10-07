@@ -2,11 +2,16 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
-Kirjoita tähän vastauksesi
+Kaikki peruskomennot tuntuivat melko selkeiltä, koska olin käyttänyt osaa aikaisemmin. Kuten git status, add ja commit. En oikeen ymmärtänyt aluksi stagin-alueen toimintaa sekä haarojen käyttöä ja yhdistämistä. 
 
 ## Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
 | --------| ------ |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
+| git status | näyttää tilanteen repositoriossa |
+| git add | lisää muutoksen seuraavaan committiin |
+| git commit | tallettaa muutoksen versiohistoriaan |
+| git restore | peruu muutoksia |
+| git switch | vaihtaa haaraa |
+| git merge | yhdistää haaroja |
+| git tag | lisää tunnisteen commitille |
